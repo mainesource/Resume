@@ -1,0 +1,9 @@
+@media (min-width: 768px){
+  body {
+    font-size: 1.3rem;
+    
+  }
+  #experience .job {
+    padding: 0 1.6rem;
+  }
+}
